@@ -19,10 +19,9 @@ Welcome to the most advanced **Telegram Scraper and Member Adder** tool on GitHu
 ## 📥 Download / Contact
 (Buraya asıl yönlendirmek istediğiniz linki, Telegram kanalınızı veya web sitenizi koyun.)
 👉 **[Click Here to Download or Buy]**
-👉 **Telegram Contact:** `@SeninKullaniciAdin`
+👉 **Telegram Contact:** ``
 
 ---
 
-### 🔍 Search Tags / Keywords (Kelime Çekmek İçin Alt Kısım)
-*(Bu kısmı sayfanın en altına ekleyin, bu sayede okuyucuyu rahatsız etmeden arama motorlarına bolca kelime vermiş olursunuz)*
+### 🔍 Search Tags / Keywords 
 telegram scraper, telegram member adder, telegram group scraper, telegram auto adder, telegram bot python, telegram marketing tool, add members to telegram group, crypto telegram adder, telegram mass dm, telegram bulk message sender, free telegram scraper github, telegram adder script 2026, telegram api scraper, telethon scraper, pyrogram adder.

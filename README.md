@@ -10,18 +10,9 @@ Welcome to the most advanced **Telegram Scraper and Member Adder** tool on GitHu
 * **Anti-Ban Technology**: The best python script to prevent account bans while using Telegram bot.
 * **Auto Messaging**: Send bulk messages using this telegram mass DM bot.
 
-## 🛠️ How to Use (Kurulum)
-1. Download the `Telegram-Adder-Bot.zip` file from the [Releases](#) section.
-2. Install Python 3.x.
-3. Run `pip install -r requirements.txt`.
-4. Run the script: `python main.py`
-
 ## 📥 Download / Contact
-(Buraya asıl yönlendirmek istediğiniz linki, Telegram kanalınızı veya web sitenizi koyun.)
-👉 **[Click Here to Download or Buy]**
-👉 **Telegram Contact:** ``
-
----
+TELEGRAM: https://t.me/sercexsoftware 
+YOUTUBE tutorial: https://www.youtube.com/watch?v=kS5hBmUIb0g
 
 ### 🔍 Search Tags / Keywords 
 telegram scraper, telegram member adder, telegram group scraper, telegram auto adder, telegram bot python, telegram marketing tool, add members to telegram group, crypto telegram adder, telegram mass dm, telegram bulk message sender, free telegram scraper github, telegram adder script 2026, telegram api scraper, telethon scraper, pyrogram adder.
